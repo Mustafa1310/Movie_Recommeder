@@ -6,5 +6,7 @@ Basic Recommender system which suggests the viewers on which movie to watch next
 ![Graph2](https://user-images.githubusercontent.com/58935609/74099977-6bb8e380-4b4f-11ea-950e-1b8197215732.png)
 # Recommendation using correlation:
 This image shows an example of how the next movie gets recommended to the user.
+The higher the correlation the more is the movie related to the movie watched by the user
 ![Recommended](https://user-images.githubusercontent.com/58935609/74099978-6c517a00-4b4f-11ea-9406-e0a8cd2e3b32.png)
-
+# You can get the dataset used from the given link:
+https://grouplens.org/datasets/movielens/
